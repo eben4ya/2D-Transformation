@@ -2,3 +2,4 @@
 /dist
 main.spec
 transformation.spec
+dynamic-transformation.spec
